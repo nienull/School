@@ -8,6 +8,7 @@ namespace School;
 
 internal class Student : Person
 {
+    // test
     public Student(string firstName, string lastName) : base(firstName, lastName)
     {
     }
